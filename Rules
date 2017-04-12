@@ -7,6 +7,7 @@ end
 compile '/**/*.md' do
   filter :kramdown
   layout '/default.*'
+  filter :better_relativize_paths, type: :html
 end
 
 compile '/styles/main.scss' do
