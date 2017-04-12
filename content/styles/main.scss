@@ -52,7 +52,7 @@ header {
     font-size: 5em;
     margin: 0;
     padding: .2em .5em .3em;
-    background: linear-gradient(left, transparent 0%, $color-main 30%, transparent 100%);
+    background: linear-gradient(to left, transparent 0%, $color-main 30%, transparent 100%);
   }
   p {
     font-size: 1.5em;
@@ -66,6 +66,10 @@ header {
     &:hover {
       text-decoration: underline;
     }
+  }
+
+  &:hover {
+    animation: blur .5s;
   }
 }
 
@@ -129,6 +133,10 @@ main {
       }
     }
   }
+
+  :hover {
+    animation: blur .2s;
+  }
 }
 
 footer {
@@ -143,4 +151,14 @@ footer {
     }
     font-size: 2.5em;
   }
+
+  &:hover {
+    animation: blur .5s;
+  }
+}
+
+@keyframes blur {
+    0% { filter: blur(0px); }
+   70% { filter: blur(3px); }
+  100% { filter: blur(0px); }
 }
