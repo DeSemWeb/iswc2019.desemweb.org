@@ -38,14 +38,34 @@ strong {
 
 header {
   background: $color-title;
-  padding: 3em 3em;
+  padding: 3em 1em;
   margin: -2em -3em 2em;
   transform: rotate(-2deg);
 
-  h1 {
+  * {
     color: white;
-    font-size: 2.5em;
-    transform: rotate(1deg);
+  }
+  > * {
+    transform: rotate(.5deg);
+  }
+  h1 {
+    font-size: 5em;
+    margin: 0;
+    padding: .2em .5em .3em;
+    background: linear-gradient(left, transparent 0%, $color-main 30%, transparent 100%);
+  }
+  p {
+    font-size: 1.5em;
+    letter-spacing: .1ex;
+    margin: -2em 0 0 1.7em;
+  }
+  .kern {
+    letter-spacing: -.1em;
+  }
+  a {
+    &:hover {
+      text-decoration: underline;
+    }
   }
 }
 
@@ -122,6 +142,5 @@ footer {
       color: white;
     }
     font-size: 2.5em;
-    transform: rotate(1deg);
   }
 }

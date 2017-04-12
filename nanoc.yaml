@@ -28,3 +28,6 @@ checks:
     exclude_files: []
 
 site_name: DeSemWeb2017
+venue:
+  name: ISWC2017
+  site: https://iswc2017.semanticweb.org/

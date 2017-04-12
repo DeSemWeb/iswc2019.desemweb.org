@@ -2,13 +2,14 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title><%= config[:site_name] %> - <%= @item[:title] %></title>
+  <title><%= h config[:site_name] %> - <%= h @item[:title] %></title>
   <link rel="stylesheet" href="/styles/main.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:700%7CAlegreya+Sans:400,400i,700,700i" >
 </head>
 <body>
   <header>
-    <h1>Decentralizing the Semantic Web</h1>
+    <h1><a href="/">DeSe<span class="kern">mW</span>eb2017</a></h1>
+    <p><a href="<%= h config[:venue][:site] %>"><%= h config[:venue][:name] %></a> workshop on Decentralizing the Semantic Web</p>
   </header>
   <main>
     <%= yield %>
