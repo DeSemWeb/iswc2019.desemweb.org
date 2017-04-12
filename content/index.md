@@ -1,9 +1,7 @@
 ---
 title: Home
 ---
-# Offensa murmura hic coniunx agros
-
-## Retro annorum quid docta iacuere Chromis amens
+## Offensa murmura hic coniunx agros
 
 Lorem markdownum dextras Telamon se secretos est communis unco prensam rudis,
 fuit! Proelia fuerat spectabere _pondere Clitorio_, ea victor dixerat dignos
@@ -15,7 +13,7 @@ _dolens_; egerere quae. Fila tangit, nil pia iacens fulgure et triumphos
 curvamine nato. Creditus matris; aderisque accensis chordas sis faciem interea.
 **Nascitur** adfusaeque hospite bracchia, Achaidos!
 
-## Ipsum Echidnae
+### Ipsum Echidnae
 
 Di sensimus alii sociare illam adfectu et fusile tenuit virilem, ultima fuit
 domus. Matertera quemque sanguine; dextro rosaria quatiatur. Sui mare terra
@@ -26,7 +24,7 @@ praecipue Erigonen.
 3. Molibar progenitore Alba
 4. Perfida aut remis bicoloribus corpus commune
 
-## Vacant mihi et nudae
+### Vacant mihi et nudae
 
 Aggeribus deficit micant est dulci Paridis aurea si habet rapuere vereri color,
 parem. Cacumina silices levati Ethemon animalia Medusa minoris silentia respicit
@@ -39,7 +37,7 @@ pater: avus. Adhuc Procne natam licere leto, scelus luce venatu, viros unam
 - Nec terque corpora montano
 - Invia ut dedecus superis ingratumque gerit sperat
 
-## Faciem flectere reccidit est tunc relictum propinquae
+### Faciem flectere reccidit est tunc relictum propinquae
 
 Aiax exstat; ferat rostro unius gerit prospicit et victoria iactate generum [ne
 manu talia](http://quod-quondam.net/). Viro posse, et premens ignes tollit Eoo

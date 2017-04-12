@@ -1,1 +1,127 @@
-@import "reset.scss"
+@import "reset.scss";
+
+$color-main: #2b2d42;
+$color-title: #ef2d56;
+$color-accent: #ed7d3a;
+$color-alt: #2fbf71;
+$color-alt-light: #8cd867;
+
+$indent: 15px;
+
+body {
+  font: 14pt/1.6 'Alegreya Sans', sans-serif;
+  max-width: 800px;
+  margin: 1em auto 0;
+  padding: 0 (2 * $indent);
+  color: $color-main;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1, h2, h3 {
+  font-family: 'Roboto Slab', sans-serif;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+em {
+  font-style: italic;
+  letter-spacing: .5px;
+  color: $color-alt;
+}
+strong {
+  font-weight: bold;
+  color: $color-accent;
+}
+
+header {
+  background: $color-title;
+  padding: 3em 3em;
+  margin: -2em -3em 2em;
+  transform: rotate(-2deg);
+
+  h1 {
+    color: white;
+    font-size: 2.5em;
+    transform: rotate(1deg);
+  }
+}
+
+main {
+  a {
+    color: $color-accent;
+    text-decoration: none;
+    border-bottom: 2px dotted;
+
+    &:hover {
+      color: $color-title;
+      border-bottom-style: solid;
+    }
+  }
+
+  h2, h3 {
+    transform: rotate(-1deg);
+    margin: .5em (-$indent) .25em;
+  }
+  h2 {
+    font-size: 2em;
+    color: $color-accent;
+  }
+  h3 {
+    font-size: 1.25em;
+    color: $color-alt;
+  }
+
+  ul, ol {
+    margin: .5em $indent;
+  }
+  li {
+    &:before {
+      color: $color-alt;
+      font-weight: bold;
+      display: inline-block;
+      margin-right: $indent;
+    }
+    &:nth-child(3n+1):before {
+      color: $color-title;
+    }
+    &:nth-child(3n+2):before {
+      color: $color-accent;
+    }
+  }
+  ul {
+    li {
+      &:before {
+        content: '–';
+        transform: rotate(-10deg);
+      }
+    }
+  }
+  ol {
+    counter-reset: ol;
+    li {
+      &:before {
+        counter-increment: ol;
+        content: counter(ol);
+        transform: rotate(-5deg);
+      }
+    }
+  }
+}
+
+footer {
+  background: $color-accent;
+  padding: 2em 3em;
+  margin: 2em -3em 0;
+  transform: rotate(-2deg);
+
+  p {
+    &, & * {
+      color: white;
+    }
+    font-size: 2.5em;
+    transform: rotate(1deg);
+  }
+}
