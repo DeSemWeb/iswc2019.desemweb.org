@@ -85,6 +85,12 @@ main {
     }
   }
 
+  p {
+    + p {
+      margin-top: .5em;
+    }
+  }
+
   h2, h3 {
     transform: rotate(-1deg);
     margin: .5em (-$indent) .25em;
@@ -92,6 +98,10 @@ main {
   h2 {
     font-size: 2em;
     color: $color-accent;
+    em {
+      font-style: normal;
+      color: $color-title;
+    }
   }
   h3 {
     font-size: 1.25em;
@@ -99,9 +109,19 @@ main {
   }
 
   ul, ol {
-    margin: .5em $indent;
+    p + & {
+      margin: .5em $indent;
+    }
+    ul, ol {
+      margin: 0 0 0 (2 * $indent);
+    }
   }
   li {
+    font-weight: bold;
+    li {
+      font-weight: normal;
+    }
+
     &:before {
       color: $color-alt;
       font-weight: bold;

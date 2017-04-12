@@ -1,53 +1,44 @@
 ---
 title: Home
 ---
-## Offensa murmura hic coniunx agros
+## A workshop that focuses on _clients_
+Unfortunately,
+the Semantic Web is increasingly becoming a centralized story:
+we rely on large-scale server-side infrastructures
+to perform intense reasoning, data mining, query execution, etc.
+Therefore, we urgently need research and engineering
+to _put the “Web” back in “Semantic Web”_,
+aiming for **intelligent clients** instead of intelligent servers.
+The DeSemWeb2017 workshop purposely takes a radical perspective
+by focusing solely on **decentralized and client-side applications**,
+to counterbalance the centralized discourse of other tracks.
+While we recognize the value in all subfields of the Semantic Web,
+we see an urgent need to _revalue the role of clients_.
 
-Lorem markdownum dextras Telamon se secretos est communis unco prensam rudis,
-fuit! Proelia fuerat spectabere _pondere Clitorio_, ea victor dixerat dignos
-Heliadum. Esse natis? Nec duas etiam. Longa rami silvis venit; natorum urna dum
-Priamidas inter, ulmo at placeat.
+Submit to this workshop and help
+put different topics on the Semantic Web community’s research agenda,
+which will lead to new inspiration and initiatives
+to build future Semantic Web and Linked Data applications.
 
-Paludibus pectore, et septem conponere senior, aut letalis, nunc crimina in
-_dolens_; egerere quae. Fila tangit, nil pia iacens fulgure et triumphos
-curvamine nato. Creditus matris; aderisque accensis chordas sis faciem interea.
-**Nascitur** adfusaeque hospite bracchia, Achaidos!
+### Topics of the DeSemWeb workshop series
+Submit your work on these topics and related subjects:
 
-### Ipsum Echidnae
-
-Di sensimus alii sociare illam adfectu et fusile tenuit virilem, ultima fuit
-domus. Matertera quemque sanguine; dextro rosaria quatiatur. Sui mare terra
-praecipue Erigonen.
-
-1. Non usa opto cunctosque quam geminos
-2. Rhoetus posse saevi pectore relicta adclinavit scilicet
-3. Molibar progenitore Alba
-4. Perfida aut remis bicoloribus corpus commune
-
-### Vacant mihi et nudae
-
-Aggeribus deficit micant est dulci Paridis aurea si habet rapuere vereri color,
-parem. Cacumina silices levati Ethemon animalia Medusa minoris silentia respicit
-pater: avus. Adhuc Procne natam licere leto, scelus luce venatu, viros unam
-[percepit](#), acumine et leones repetitum. Fulmen idem prementem.
-
-- In frigida
-- Colat et te novata tamen
-- Pontus ut Aetne amantem vestemque
-- Nec terque corpora montano
-- Invia ut dedecus superis ingratumque gerit sperat
-
-### Faciem flectere reccidit est tunc relictum propinquae
-
-Aiax exstat; ferat rostro unius gerit prospicit et victoria iactate generum [ne
-manu talia](#). Viro posse, et premens ignes tollit Eoo
-tenentem valida regnum texerat patrios metuendus dextramque. Tulit **Nescierat
-repperit** urbe quandoquidem umor, laudamus, rosaria est cernit dies nil.
-
-1. Puer ut sola ora fieri indigenae spatiis
-2. Adit satis operis Thebae vel onerataque et
-3. Atque officioque nato pia suspicere dinumerat carpit
-
-Idem saevior. Latet illa visuras, victa [trepidumque adest](#)
-nec _sustinet_ Romulus, Somne et peream quodque natus. Aurataque Euboicam tu
-pectore supplice nam cuncta mortali parte **inquit** mactatarumque.
+- intelligent Web clients through semantic technologies
+  - browsers of (heterogeneous) Linked Data
+  - Linked Data crawlers and processors
+  - Linked Data traversal-based query evaluation
+  - browser-based Linked Data applications
+  - moving intelligence from servers to clients
+  - interpreting small RDFa data (rather than crawling a full website)
+- decentralized Semantic Web applications
+  - client-side Linked Data access and manipulation
+  - provenance, trust, and claim verification
+  - browser extensions consuming Linked Data
+  - applications of Linked Data Notifications
+  - Linked Data visualizations
+- enabling technologies for Web-scale decentralization
+  - decentralized Linked Data architectures
+  - peer-to-peer technologies for the Semantic Web
+  - lightweight data interfaces
+  - hypermedia markup and controls in RDF
+  - blockchain and distributed ledgers
