@@ -26,3 +26,5 @@ checks:
   external_links:
     exclude: []
     exclude_files: []
+
+site_name: DeSemWeb2017
