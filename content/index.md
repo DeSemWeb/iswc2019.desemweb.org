@@ -7,7 +7,7 @@ the Semantic Web is increasingly becoming a centralized story:
 we rely on large-scale server-side infrastructures
 to perform intense reasoning, data mining, query execution, etc.
 Therefore, we urgently need research and engineering
-to _put the “Web” back in “Semantic Web”_,
+to _put the “Web” back in the “Semantic Web”_,
 aiming for **intelligent clients** instead of intelligent servers.
 The DeSemWeb2017 workshop purposely takes a radical perspective
 by focusing solely on **decentralized and client-side applications**,
