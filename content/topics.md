@@ -1,5 +1,6 @@
 ---
 title: Topics
+order: 10
 ---
 ## Topics of the DeSemWeb workshop series
 Submit your work on these topics and related subjects:

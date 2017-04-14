@@ -1,5 +1,6 @@
 ---
 title: Overview
+order: 0
 ---
 ## A workshop that focuses on _clients_
 Unfortunately,
