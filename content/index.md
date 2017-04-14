@@ -22,7 +22,7 @@ which will lead to new inspiration and initiatives
 to build future Semantic Web and Linked Data applications.
 
 ## Topics of the DeSemWeb workshop series
-[Submit your work](/submission/) on these topics and related subjects:
+[Submit your work](/contributions/) on these topics and related subjects:
 
 - intelligent Web clients through semantic technologies
   – [read more](/topics/#clients)

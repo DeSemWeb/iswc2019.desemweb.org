@@ -1,8 +1,8 @@
 ---
-title: Submission
+title: Contributions
 order: 20
 ---
-# Submission
+# Call for contributions
 More info to follow soon.
 
 ## Program committee

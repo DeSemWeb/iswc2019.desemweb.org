@@ -3,7 +3,7 @@ title: Topics
 order: 10
 ---
 # DeSemWeb topics
-[Submit your work](/submission/) on these topics and related subjects:
+[Submit your work](/contributions/) on these topics and related subjects:
 
 ## Intelligent Web clients through semantic technologies
 {:#clients}
