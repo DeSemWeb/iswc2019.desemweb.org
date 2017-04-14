@@ -2,7 +2,7 @@
 title: Overview
 order: 0
 ---
-## A workshop that focuses on _clients_
+# A workshop that focuses on _clients_
 Unfortunately,
 the Semantic Web is increasingly becoming a centralized story:
 we rely on large-scale server-side infrastructures
@@ -21,7 +21,7 @@ put different topics on the Semantic Web community’s research agenda,
 which will lead to new inspiration and initiatives
 to build future Semantic Web and Linked Data applications.
 
-### Topics of the DeSemWeb workshop series
+## Topics of the DeSemWeb workshop series
 Submit your work on these topics and related subjects:
 
 - intelligent Web clients through semantic technologies

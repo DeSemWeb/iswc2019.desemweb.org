@@ -125,11 +125,11 @@ main {
     }
   }
 
-  h2, h3 {
+  h1, h2 {
     transform: rotate(-1deg);
     margin: .5em (-$indent) .25em;
   }
-  h2 {
+  h1 {
     font-size: 2em;
     color: $color-accent;
     em {
@@ -137,7 +137,7 @@ main {
       color: $color-title;
     }
   }
-  h3 {
+  h2 {
     font-size: 1.25em;
     color: $color-alt;
   }
