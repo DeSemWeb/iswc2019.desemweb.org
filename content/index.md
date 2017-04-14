@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Overview
 ---
 ## A workshop that focuses on _clients_
 Unfortunately,

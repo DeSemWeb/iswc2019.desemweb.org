@@ -10,6 +10,13 @@
   <header>
     <h1><a href="/">DeSe<span class="kern">mW</span>eb2017</a></h1>
     <p><a href="<%= h config[:venue][:site] %>"><%= h config[:venue][:name] %></a> workshop on Decentralizing the Semantic Web</p>
+    <nav>
+      <ul>
+        <% main_pages.each do |page| %>
+        <li<%= @item==page ? ' class="current"': '' %>><%= link_to page[:title], page %></li>
+        <% end %>
+      </ul>
+    </nav>
   </header>
   <main>
     <%= yield %>
