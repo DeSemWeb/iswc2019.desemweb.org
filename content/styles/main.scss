@@ -40,6 +40,7 @@ strong {
 }
 
 header {
+  position: relative;
   background: $color-title;
   padding: 3em 1em .5em;
   margin: -2em -3em 2em;
@@ -56,14 +57,19 @@ header {
     margin: 0;
     padding: .2em .5em .3em;
     background: linear-gradient(to left, transparent 0%, $color-main 30%, transparent 100%);
+    .kern {
+      letter-spacing: -.1em;
+    }
   }
-  p {
+  p.full {
     font-size: 1.5em;
     letter-spacing: .1ex;
     margin: -2em 0 0 1.7em;
   }
-  .kern {
-    letter-spacing: -.1em;
+  p.date {
+    position: absolute;
+    color: $color-title;
+    margin: -1.3em 0 0 30em;
   }
   h1, p {
     a {
