@@ -38,7 +38,7 @@ VU University Amsterdam, The Netherlands
 [(e-mail)](mailto:kuhntobias@gmail.com?subject=DeSemWeb2017){:.email}
 
 
-![[Tobias Kuhn]](http://www.tkuhn.org/tk.jpg){:.profile}
+![[Tobias Kuhn]](/images/tobias.jpg){:.profile}
 
 Tobias Kuhn is an assistant professor
 in the Computer Science Department at VU University Amsterdam.
