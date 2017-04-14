@@ -193,6 +193,17 @@ main {
     }
   }
 
+  dl {
+    dt {
+      font-weight: bold;
+      float: left;
+      clear: left;
+      &:after {
+        content: ': ';
+      }
+    }
+  }
+
   :hover {
     animation: blur .2s;
   }
