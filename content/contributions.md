@@ -24,5 +24,6 @@ Workshop
 - Ben De Meester, Ghent University – imec
 - Amy Guy, University of Edinburgh
 - Hala Skaf-Molli, University of Nantes
+- Henry Story, University of Southampton
 - Miel Vander Sande, Ghent University – imec
 - _(to be completed)_
