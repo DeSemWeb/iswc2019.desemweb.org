@@ -21,6 +21,7 @@ Workshop
 ## Program committee
 - Sarven Capadisli, University of Bonn
 - Pieter Colpaert, Ghent University – imec
+- Ben De Meester, Ghent University – imec
 - Amy Guy, University of Edinburgh
 - Miel Vander Sande, Ghent University – imec
 - _(to be completed)_
