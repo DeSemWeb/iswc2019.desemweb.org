@@ -23,5 +23,6 @@ Workshop
 - Pieter Colpaert, Ghent University – imec
 - Ben De Meester, Ghent University – imec
 - Amy Guy, University of Edinburgh
+- Hala Skaf-Molli, University of Nantes
 - Miel Vander Sande, Ghent University – imec
 - _(to be completed)_
