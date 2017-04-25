@@ -22,7 +22,12 @@ Workshop
 - Sarven Capadisli, University of Bonn
 - Pieter Colpaert, Ghent University – imec
 - Ben De Meester, Ghent University – imec
+- Matthew English, University of Bonn
 - Amy Guy, University of Edinburgh
+- Olaf Hartig, Linköping University
+- Katja Hose, Aalborg University
+- Albert Merono, VU Amsterdam
+- Pascal Molli, University of Nantes
 - Hala Skaf-Molli, University of Nantes
 - Henry Story, University of Southampton
 - Miel Vander Sande, Ghent University – imec
