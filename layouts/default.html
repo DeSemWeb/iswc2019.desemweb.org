@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="/styles/main.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:700%7CAlegreya+Sans:400,400i,700,700i" >
 </head>
-<body>
+<body class="<%= h @item.identifier.to_s[/[a-z]+/] %>">
   <header>
     <h1><a href="/">DeSe<span class="kern">mW</span>eb2017</a></h1>
     <p class="date">21–22 October 2017</p>
