@@ -31,6 +31,7 @@ Workshop
 - Pascal Molli, University of Nantes
 - Hala Skaf-Molli, University of Nantes
 - Jorge Perez, University of Chile
+- Juan Reutter, Pontifical Catholic University of Chile
 - Henry Story, University of Southampton
 - Herbert Van de Sompel, Los Alamos National Laboratory
 - Miel Vander Sande, Ghent University – imec
