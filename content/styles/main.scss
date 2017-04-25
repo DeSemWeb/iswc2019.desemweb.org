@@ -244,3 +244,25 @@ img.profile {
 .email {
   margin-left: 1ex;
 }
+
+body.program {
+  $width: 6em;
+  $padding: 1em;
+
+  dt {
+    font-weight: normal;
+    text-align: right;
+    width: $width - $padding;
+
+    float: left;
+    clear: left;
+
+    &:after {
+      content: "";
+    }
+  }
+  dd {
+    font-weight: bold;
+    margin-left: $width;
+  }
+}
