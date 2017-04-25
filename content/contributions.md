@@ -23,12 +23,14 @@ Workshop
 - Pieter Colpaert, Ghent University – imec
 - Ben De Meester, Ghent University – imec
 - Matthew English, University of Bonn
+- Claudio Gutierrez, University of Chile
 - Amy Guy, University of Edinburgh
 - Olaf Hartig, Linköping University
 - Katja Hose, Aalborg University
 - Albert Merono, VU Amsterdam
 - Pascal Molli, University of Nantes
 - Hala Skaf-Molli, University of Nantes
+- Jorge Perez, University of Chile
 - Henry Story, University of Southampton
 - Herbert Van de Sompel, Los Alamos National Laboratory
 - Miel Vander Sande, Ghent University – imec
