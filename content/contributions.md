@@ -30,5 +30,6 @@ Workshop
 - Pascal Molli, University of Nantes
 - Hala Skaf-Molli, University of Nantes
 - Henry Story, University of Southampton
+- Herbert Van de Sompel, Los Alamos National Laboratory
 - Miel Vander Sande, Ghent University – imec
 - _(to be completed)_
