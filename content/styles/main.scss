@@ -75,6 +75,7 @@ header {
     a {
       &:hover {
         text-decoration: underline;
+        animation: blur .2s;
       }
     }
   }
@@ -101,10 +102,6 @@ header {
       }
     }
   }
-
-  &:hover {
-    animation: blur .5s;
-  }
 }
 
 main {
@@ -117,6 +114,7 @@ main {
     &:hover {
       color: $color-title;
       border-bottom-style: solid;
+      animation: blur .2s;
     }
   }
 
@@ -202,10 +200,6 @@ main {
         content: ': ';
       }
     }
-  }
-
-  :hover {
-    animation: blur .2s;
   }
 }
 
