@@ -29,7 +29,9 @@ Workshop
 - Katja Hose, Aalborg University
 - Albert Merono, VU Amsterdam
 - Pascal Molli, University of Nantes
+- Gabriela Montoya, Aalborg University
 - Hala Skaf-Molli, University of Nantes
+- elf Pavlik
 - Jorge Perez, University of Chile
 - Juan Reutter, Pontifical Catholic University of Chile
 - Henry Story, University of Southampton
