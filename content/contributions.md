@@ -22,6 +22,7 @@ Workshop
 - Sarven Capadisli, University of Bonn
 - Pieter Colpaert, Ghent University – imec
 - Ben De Meester, Ghent University – imec
+- John Domingue, The Open University
 - Matthew English, University of Bonn
 - Claudio Gutierrez, University of Chile
 - Amy Guy, University of Edinburgh
@@ -31,6 +32,7 @@ Workshop
 - Pascal Molli, University of Nantes
 - Gabriela Montoya, Aalborg University
 - Hala Skaf-Molli, University of Nantes
+- Allan Third, The Open University
 - elf Pavlik
 - Jorge Perez, University of Chile
 - Juan Reutter, Pontifical Catholic University of Chile
