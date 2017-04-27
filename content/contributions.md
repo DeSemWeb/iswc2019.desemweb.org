@@ -58,7 +58,7 @@ We recommend to target 1,000–4,000 words (2–8 pages).
 ## Author guidelines
 Contributions must be either in HTML (recommended) or PDF,
 formatted in the style of the Springer Publications format
-for [Lecture Notes in Computer Science (LNCS)](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0).
+for [Lecture Notes in Computer Science (LNCS)](http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
 We especially encourage HTML contributions with semantic annotations.
 Consult the [HTML guide](http://iswc2017.semanticweb.org/calls/html-submission-guide/)
 for practical advice.
