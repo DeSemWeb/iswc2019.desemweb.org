@@ -41,7 +41,7 @@ find information on the Web or execute tasks.
 Bonus points for natural language interactions,
 such as through a _chatbot_ or _speech-to-text engine_.
 
-Please submit a link to your demonstration or video,
+Please share a link to your demonstration or video,
 accompanied by a description of around 1,000–4,000 words (2–8 pages).
 
 ### Vision statements
@@ -53,6 +53,19 @@ does decentralization need the Semantic Web?
 Contributions on any of the [topics](/topics/) are welcome.
 
 We recommend to target 1,000–4,000 words (2–8 pages).
+
+
+## Author guidelines
+Contributions must be either in HTML (recommended) or PDF,
+formatted in the style of the Springer Publications format
+for [Lecture Notes in Computer Science (LNCS)](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0).
+We especially encourage HTML contributions with semantic annotations.
+Consult the [HTML guide](http://iswc2017.semanticweb.org/calls/html-submission-guide/)
+for practical advice.
+
+Accepted contributions will be published as [CEUR-WS](http://ceur-ws.org/) proceedings
+and need to be presented by one of the authors at the workshop.
+
 
 ## Dates and deadlines
 Contributions due
