@@ -46,7 +46,7 @@ accompanied by a description of around 1,000–4,000 words (2–8 pages).
 
 ### Vision statements
 {:#vision-statements}
-Share your vision for the future of the Semantic Web,
+Share _your vision for the future_ of the Semantic Web,
 with a focus on clients and/or decentralization.
 Does the Semantic Web need decentralization—and
 does decentralization need the Semantic Web?
