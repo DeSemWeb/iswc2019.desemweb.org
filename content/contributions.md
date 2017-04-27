@@ -102,4 +102,5 @@ Workshop
 - Henry Story, University of Southampton
 - Herbert Van de Sompel, Los Alamos National Laboratory
 - Miel Vander Sande, Ghent University – imec
+- Nicola Greco, Massachusetts Institute of Technology
 - _(to be completed)_
