@@ -1,9 +1,58 @@
 ---
-title: Contributions
-order: 20
+title: Call for Contributions
+order: 10
 ---
-# Call for contributions
-More info to follow soon.
+# Call for Contributions
+
+## Scope
+The ISWC2017 workshop on Decentralizing the Semantic Web
+welcomes novel contributions on intelligent clients,
+decentralized applications, and enabling technologies.
+Consult the [detailed topic list](/topics/) for inspiration.
+
+You can share three kinds of contributions:
+[research articles](#research-articles),
+[client challenge demos](#client-challenge),
+and [vision statements](#vision-statements).
+The deadline is 21 July 2017.
+
+### Research articles
+{:#research-articles}
+DeSemWeb research articles provide _scientifically motivated insights_
+from the domain of intelligent clients, decentralized applications,
+and/or enabling technologies
+covering one or more of the workshop’s [topics](/topics/).
+
+Research articles must:
+
+{:.inline}
+- clearly state the tackled problem upfront in the abstract and introduction
+- explain the differences with related work
+- evaluate the contribution
+
+We recommend to target 6,000–8,000 words (12–16 pages).
+
+### Intelligent client challenge
+{:#client-challenge}
+We challenge authors to _build a demonstration_ of an intelligent Web application
+that runs mostly or exclusively in a mobile or desktop browser.
+Such an application could, for instance,
+find information on the Web or execute tasks.
+Bonus points for natural language interactions,
+such as through a _chatbot_ or _speech-to-text engine_.
+
+Please submit a link to your demonstration or video,
+accompanied by a description of around 1,000–4,000 words (2–8 pages).
+
+### Vision statements
+{:#vision-statements}
+Share your vision for the future of the Semantic Web,
+with a focus on clients and/or decentralization.
+Does the Semantic Web need decentralization—and
+does decentralization need the Semantic Web?
+Contributions on any of the [topics](/topics/) are welcome.
+
+We recommend to target 1,000–4,000 words (2–8 pages).
 
 ## Dates and deadlines
 Contributions due
@@ -17,6 +66,7 @@ Proceedings publication
 
 Workshop
 : 21 or 22 October 2017
+
 
 ## Program committee
 - Sarven Capadisli, University of Bonn

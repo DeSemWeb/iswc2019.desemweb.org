@@ -144,6 +144,9 @@ main {
       color: $color-alt;
     }
   }
+  h3 {
+    margin-top: .5em;
+  }
 
   ul, ol {
     p + & {
@@ -237,6 +240,12 @@ img.profile {
 }
 .email {
   margin-left: 1ex;
+}
+
+body.contributions {
+  .inline li {
+    font-weight: normal;
+  }
 }
 
 body.program {
