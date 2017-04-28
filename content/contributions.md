@@ -103,4 +103,5 @@ Workshop
 - Herbert Van de Sompel, Los Alamos National Laboratory
 - Miel Vander Sande, Ghent University – imec
 - Nicola Greco, Massachusetts Institute of Technology
+- Johannes Pfeffer, ConsenSys
 - _(to be completed)_
