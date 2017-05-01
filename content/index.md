@@ -22,7 +22,7 @@ which will lead to new inspiration and initiatives
 to build future Semantic Web and Linked Data applications.
 
 ## Topics of the DeSemWeb workshop series
-[Submit your work](/contributions/) on these topics and related subjects:
+[Share your work](/contributions/) on these topics and related subjects:
 
 - intelligent Web clients through semantic technologies
   – [read more](/topics/#clients)
@@ -37,3 +37,12 @@ to build future Semantic Web and Linked Data applications.
 > we risk becoming obsolete as a Semantic Web community.
 >
 > <footer>Ruben Verborgh, DeSemWeb co-organizer</footer>
+
+## Your creative input is needed to make this happen!
+Share your [research](/contributions/#research-articles),
+[clients](/contributions/#client-challenge),
+and [vision](/contributions/#vision-statements)
+at the DeSemWeb2017 workshop.
+
+Come and join us in Vienna in October at [ISWC2017](https://iswc2017.semanticweb.org/)
+to discuss about the Web.
