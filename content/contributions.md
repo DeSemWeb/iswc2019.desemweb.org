@@ -29,7 +29,7 @@ Research articles must:
 - clearly state the tackled problem upfront in the abstract and introduction
 - explain the differences with related work
 - evaluate the contribution
-  through a prototype, use case, experiments, …
+  through a prototype, use case, or experiments
 
 We recommend to target 6,000–8,000 words (12–16 pages).
 
