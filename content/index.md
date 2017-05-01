@@ -2,7 +2,7 @@
 title: Overview
 order: 0
 ---
-# A workshop that focuses on _clients_
+# A workshop that focuses on _clients_
 Unfortunately,
 the Semantic Web is increasingly becoming a centralized story:
 we rely on large-scale server-side infrastructures
@@ -25,11 +25,11 @@ to build future Semantic Web and Linked Data applications.
 [Share your work](/contributions/) on these topics and related subjects:
 
 - intelligent Web clients through semantic technologies
-  – [read more](/topics/#clients)
+  – [read more](/topics/#clients)
 - decentralized Semantic Web applications
-  – [read more](/topics/#applications)
+  – [read more](/topics/#applications)
 - enabling technologies for Web-scale decentralization
-  – [read more](/topics/#technologies)
+  – [read more](/topics/#technologies)
 
 > The Web is our main differentiator compared to other communities
 > such as Big Data, databases, and machine learning.

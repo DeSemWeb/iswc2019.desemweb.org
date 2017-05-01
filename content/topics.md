@@ -5,7 +5,7 @@ order: 20
 # DeSemWeb topics
 [Submit your work](/contributions/) on these topics and related subjects:
 
-## Intelligent Web clients through semantic technologies
+## Intelligent Web clients through semantic technologies
 {:#clients}
 
 - browsers of (heterogeneous) Linked Data
