@@ -5,6 +5,7 @@ $color-title: #ef2d56;
 $color-accent: #ed7d3a;
 $color-alt: #2fbf71;
 $color-alt-light: #8cd867;
+$white: white;
 
 $font-body: 'Alegreya Sans', sans-serif;
 $font-title: 'Roboto Slab', sans-serif;
@@ -47,7 +48,7 @@ header {
   transform: rotate(-2deg);
 
   * {
-    color: white;
+    color: $white;
   }
   > * {
     transform: rotate(.5deg);
@@ -93,12 +94,12 @@ header {
       a {
         color: $color-main;
         &:hover {
-          color: white;
+          color: $white;
           animation: blur .2s;
         }
       }
       &.current a {
-        color: white;
+        color: $white;
       }
     }
   }
@@ -204,9 +205,35 @@ main {
       }
     }
   }
+
+  blockquote {
+    background: $color-alt;
+    padding: 2em 3em;
+    margin: 2em -3em 0;
+    transform: rotate(1deg);
+
+    &, * {
+      color: $white;
+    }
+    > p {
+      font-weight: bold;
+      font-size: 1.5em;
+    }
+    > footer {
+      margin-top: 1em;
+      font-style: italic;
+      letter-spacing: .5px;
+      font-size: 1.1em;
+      text-align: right;
+
+      &:before {
+        content: "—";
+      }
+    }
+  }
 }
 
-footer {
+body > footer {
   background: $color-accent;
   padding: 2em 3em;
   margin: 2em -3em 0;
@@ -214,7 +241,7 @@ footer {
 
   p {
     &, & * {
-      color: white;
+      color: $white;
     }
     font-size: 2.5em;
   }

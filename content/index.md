@@ -30,3 +30,10 @@ to build future Semantic Web and Linked Data applications.
   – [read more](/topics/#applications)
 - enabling technologies for Web-scale decentralization
   – [read more](/topics/#technologies)
+
+> The Web is our main differentiator compared to other communities
+> such as Big Data, databases, and machine learning.
+> If we’re not betting on the Web _now_,
+> we risk becoming obsolete as a Semantic Web community.
+>
+> <footer>Ruben Verborgh, DeSemWeb co-organizer</footer>
