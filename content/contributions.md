@@ -4,7 +4,7 @@ order: 10
 ---
 # Call for Contributions
 
-## Scope
+## Workshop scope
 The ISWC2017 workshop on Decentralizing the Semantic Web
 welcomes novel contributions on intelligent clients,
 decentralized applications, and enabling technologies.
@@ -18,12 +18,12 @@ The deadline is 21 July 2017.
 
 ### Research articles
 {:#research-articles}
-DeSemWeb research articles provide _scientifically motivated insights_
-from the domain of intelligent clients, decentralized applications,
-and/or enabling technologies
+DeSemWeb research articles provide _creative solutions to problems_
+in the domain of intelligent clients, decentralized applications,
+and/or enabling technologies,
 covering one or more of the workshop’s [topics](/topics/).
 
-Research articles must:
+Research articles bring _scientifically motivated insights_ and should:
 
 {:.inline}
 - clearly state the tackled problem upfront in the abstract and introduction
@@ -35,12 +35,12 @@ We recommend to target 6,000–8,000 words (12–16 pages).
 
 ### Intelligent client challenge
 {:#client-challenge}
-We challenge authors to _build a demonstration_ of an intelligent Web application
+We challenge authors to _build an interactive demonstration_ of an intelligent Web client
 that runs mostly or exclusively in a mobile or desktop browser.
-Such an application could, for instance,
+Such a client could, for instance,
 find information on the Web or execute tasks.
-Bonus points for natural language interactions,
-such as through a _chatbot_ or _speech-to-text engine_.
+Bonus points for natural language interactions
+through a _chatbot_ or _speech-to-text engine_.
 
 Please share a link to your demonstration or video,
 accompanied by a description of around 1,000–4,000 words (2–8 pages).
@@ -48,7 +48,8 @@ accompanied by a description of around 1,000–4,000 words (2–8 pages).
 ### Vision statements
 {:#vision-statements}
 Share _your vision for the future_ of the Semantic Web,
-with a focus on clients and/or decentralization.
+with a focus on clients and/or decentralization,
+addressing current issues, relevant questions, future directions, …
 Does the Semantic Web need decentralization—and
 does decentralization need the Semantic Web?
 Contributions on any of the [topics](/topics/) are welcome.
