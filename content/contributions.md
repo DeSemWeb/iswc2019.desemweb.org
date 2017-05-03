@@ -57,13 +57,30 @@ We recommend to target 1,000–4,000 words (2–8 pages).
 
 
 ## Author guidelines
-Contributions must be either in HTML (recommended) or PDF,
-formatted in the style of the Springer Publications format
-for [Lecture Notes in Computer Science (LNCS)](http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
-We especially encourage HTML contributions with semantic annotations.
-Consult the [HTML guide](http://iswc2017.semanticweb.org/calls/html-submission-guide/)
-for practical advice.
 
+### Format
+Authors can choose the best way to express their work,
+such as HTML or PDF.
+Given the scope of the workshop,
+we encourage the usage of native Web technologies
+and especially welcome HTML contributions with semantic annotations.
+Authors looking for practical advice might find the
+[HTML guide](http://iswc2017.semanticweb.org/calls/html-submission-guide/) helpful.
+
+The DeSemWeb workshop series endorses the
+[Linked Research](https://linkedresearch.org/) principles.
+You might like to check its various aspects
+(unique identifiers, resources, feedback, …)
+and try to apply relevant ones to your contribution.
+
+### Reviewing process
+Please share your DeSemWeb contribution before the deadline
+through the [review system](javascript:alert("We are currently setting up the review system, please stay tuned.")).
+
+You can—and are encouraged to—publish your contribution on the Web
+while it is under review.
+
+### Publication
 Accepted contributions will be published as [CEUR-WS](http://ceur-ws.org/) proceedings
 and need to be presented by one of the authors at the workshop.
 
