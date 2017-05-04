@@ -106,13 +106,16 @@ Workshop
 - Ben De Meester, Ghent University – imec
 - John Domingue, The Open University
 - Matthew English, University of Bonn
+- Nicola Greco, Massachusetts Institute of Technology
 - Claudio Gutierrez, University of Chile
 - Amy Guy, University of Edinburgh
 - Olaf Hartig, Linköping University
 - Katja Hose, Aalborg University
+- Kjetil Kjernsmo, Multiarc
 - Albert Merono, VU Amsterdam
 - Pascal Molli, University of Nantes
 - Gabriela Montoya, Aalborg University
+- Johannes Pfeffer, ConsenSys
 - Hala Skaf-Molli, University of Nantes
 - Allan Third, The Open University
 - elf Pavlik
@@ -121,6 +124,4 @@ Workshop
 - Henry Story, University of Southampton
 - Herbert Van de Sompel, Los Alamos National Laboratory
 - Miel Vander Sande, Ghent University – imec
-- Nicola Greco, Massachusetts Institute of Technology
-- Johannes Pfeffer, ConsenSys
 - _(to be completed)_
