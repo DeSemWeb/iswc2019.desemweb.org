@@ -125,4 +125,3 @@ Workshop
 - Dominik Tomaszuk, University of Bialystok
 - Herbert Van de Sompel, Los Alamos National Laboratory
 - Miel Vander Sande, Ghent University – imec
-- _(to be completed)_
