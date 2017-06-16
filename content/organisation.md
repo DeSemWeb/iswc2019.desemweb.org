@@ -1,5 +1,6 @@
 ---
 title: Organisation
+order: 100
 ---
 # Workshop organizers
 
