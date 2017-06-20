@@ -112,6 +112,7 @@ Workshop
 - Amy Guy, University of Edinburgh
 - Olaf Hartig, Linköping University
 - Katja Hose, Aalborg University
+- Sabrina Kirrane, Vienna University of Economics and Business
 - Kjetil Kjernsmo, Multiarc
 - Albert Merono, VU Amsterdam
 - Pascal Molli, University of Nantes
