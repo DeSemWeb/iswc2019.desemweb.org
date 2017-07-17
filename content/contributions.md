@@ -14,7 +14,7 @@ You can share three kinds of contributions:
 [research articles](#research-articles),
 [client challenge demos](#client-challenge),
 and [vision statements](#vision-statements).
-Share your work with us _before 21 July 2017_
+Share your work with us _before **28 July 2017**_
 through the [OpenReview](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2017/DeSemWeb) platform.
 
 ### Research articles
@@ -89,7 +89,7 @@ and need to be presented by one of the authors at the workshop.
 
 ## Dates and deadlines
 Contributions due
-: 21 July 2017
+: 28 July 2017
 
 Acceptance notification
 : 24 August 2017

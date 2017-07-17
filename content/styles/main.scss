@@ -34,7 +34,9 @@ em {
   font-style: italic;
   font-size: 1.02em;
   letter-spacing: .5px;
-  color: $color-alt;
+  &, & strong {
+    color: $color-alt;
+  }
 }
 strong {
   font-weight: bold;
