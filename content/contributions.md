@@ -116,7 +116,6 @@ Workshop
 
 ## Program committee
 - Sarven Capadisli, University of Bonn
-- Pieter Colpaert, Ghent University – imec
 - Ben De Meester, Ghent University – imec
 - John Domingue, The Open University
 - Matthew English, University of Bonn
