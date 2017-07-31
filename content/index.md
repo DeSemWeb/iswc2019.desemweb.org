@@ -3,6 +3,19 @@ title: Overview
 order: 0
 ---
 # A workshop that focuses on _clients_
+
+## Review our authors' contributions!
+We have received [14 contributions](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2017/DeSemWeb)
+in response to our [call](/contributions/).
+
+**We warmly welcome you to write an open review
+to any of these contributions.**
+<br>
+Just go to [OpenReview](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2017/DeSemWeb),
+log in,
+and pick the contribution you want to review.
+
+## Purpose and scope
 Unfortunately,
 the Semantic Web is increasingly becoming a centralized story:
 we rely on large-scale server-side infrastructures

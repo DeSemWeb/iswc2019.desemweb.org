@@ -4,6 +4,17 @@ order: 10
 ---
 # Call for Contributions
 
+## Review our authors' contributions!
+The call for contributions for 2017 is closed.
+We have received [14 contributions](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2017/DeSemWeb).
+
+**We warmly welcome you to write an open review
+to any of these contributions.**
+<br>
+Just go to [OpenReview](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2017/DeSemWeb),
+log in,
+and pick the contribution you want to review.
+
 ## Workshop scope
 The ISWC2017 workshop on Decentralizing the Semantic Web
 welcomes novel contributions on intelligent clients,
@@ -14,8 +25,10 @@ You can share three kinds of contributions:
 [research articles](#research-articles),
 [client challenge demos](#client-challenge),
 and [vision statements](#vision-statements).
+<del>
 Share your work with us _before **28 July 2017**_
 through the [OpenReview](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2017/DeSemWeb) platform.
+</del>
 
 ### Research articles
 {:#research-articles}
@@ -89,7 +102,7 @@ and need to be presented by one of the authors at the workshop.
 
 ## Dates and deadlines
 Contributions due
-: 28 July 2017
+: <del>28 July 2017</del>
 
 Acceptance notification
 : 24 August 2017
