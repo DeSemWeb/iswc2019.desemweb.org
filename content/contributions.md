@@ -111,7 +111,7 @@ Proceedings publication
 : 21 September 2017
 
 Workshop
-: 21 or 22 October 2017
+: 22 October 2017
 
 
 ## Program committee
