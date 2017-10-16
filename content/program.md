@@ -48,20 +48,25 @@ order: 50
 <span class="authors">Allan Third and John Domingue</span>
 
 15:00–15:20
-: Storage Balancing in P2P Based Distributed RDF Data Stores
-<span class="authors">Maximiliano Osorio, Carlos Buil-Aranda</span>
+: Attaching Semantic Metadata to Cryptocurrency Transactions 
+<span class="authors">Luis-Daniel Ibáñez, Huw Fryer, Elena Simperl</span>
+
 
 ## Closing session
 16:00–16:20
+: Storage Balancing in P2P Based Distributed RDF Data Stores
+<span class="authors">Maximiliano Osorio, Carlos Buil-Aranda</span>
+
+16:20–16:40
 : Agent Server: Semantic Agent for Linked Data
 <span class="authors">Teofilo Chambilla, Claudio Gutierrez</span>
 
-16:20–16:40
+16:40–17:00
 : Specifying and Executing User Agent Behaviour with Condition-Action Rules
 <span class="authors">Andreas Harth, Tobias Käfer</span>
 
-16:40–17:20
-: Debate: Does decentralization need the Semantic Web?
+17:00–17:20
+: Discussion: Does decentralization need the Semantic Web?
 
 ## Late-night session
 19:00–late
