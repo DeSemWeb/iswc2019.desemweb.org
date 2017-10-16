@@ -5,29 +5,63 @@ order: 50
 # Program
 
 ## Morning session
-9:00–9:10
-: Welcome by the workshop chairs
+9:00–9:50
+: Keynote
+<span class="authors">Alexander Garcia Castro</span>
 
-9:10–9:15
-: Kick-off talk by [Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/)
+9:50–10:10
+: Semantic Web in the Fog of Browsers
+<span class="authors">Pascal Molli, Hala Skaf-Molli</span>
 
-9:15–10:30
-: Presentation and discussion of authors’ contributions
-: _(details to follow)_
+10:10–10:30
+: Decentralizing the Persistence and Querying of RDF Datasets Through Browser-Based Technologies
+<span class="authors">Blake Regalia</span>
 
 ## Post-coffee session
-11:00–12:30
-: Presentation and discussion of authors’ contributions
-: _(details to follow)_
+11:00–12:20
+: On a Web of Data Streams
+<span class="authors">Daniele Dell'Aglio, Danh Le Phuoc, Anh Le-Tuan, Muhammad Intizar Ali, Jean-Paul Calbimonte</span>
+
+11:20–11:40
+: Towards VoIS: a Vocabulary of Interlinked Streams
+<span class="authors">Yehia Abo Sedira, Riccardo Tommasini, Emanuele Della Valle</span>
+
+11:40–12:00
+: The tripscore Linked Data Client: Calculating Specific Summaries over Large Time Series
+<span class="authors">David Chaves-Fraga, Julian Rojas, Pieter-Jan Vandenberghe, Pieter Colpaert, Oscar Corcho</span>
+
+12:00–12:20
+: Agreements in a Decentralized Linked Data Based Messaging System
+<span class="authors">Florian Kleedorfer, Heiko Friedrich, Christian Huemer</span>
 
 ## Afternoon session
-14:00–15:30
-: Presentation and discussion of authors’ contributions
-: _(details to follow)_
+14:00–14:20
+: Decentralizing the Semantic Web: Who Will Pay to Realize it?
+<span class="authors">Tobias Grubenmann, Daniele Dell'Aglio, Abraham Bernstein, Dmitry Moor, Sven Seuken</span>
+
+14:20–14:40
+: Identity and Blockchain
+<span class="authors">Joachim Lohkamp, Eugeniu Rusu, Fabian Kirstein</span>
+
+14:40–15:00
+: LinkChains: Exploring the Space of Decentralised Trustworthy Linked Data
+<span class="authors">Allan Third and John Domingue</span>
+
+15:00–15:20
+: Storage Balancing in P2P Based Distributed RDF Data Stores
+<span class="authors">Maximiliano Osorio, Carlos Buil-Aranda</span>
 
 ## Closing session
-16:00–17:30
-: Debate: _Does decentralization need the Semantic Web?_
+16:00–16:20
+: Agent Server: Semantic Agent for Linked Data
+<span class="authors">Teofilo Chambilla, Claudio Gutierrez</span>
+
+16:20–16:40
+: Specifying and Executing User Agent Behaviour with Condition-Action Rules
+<span class="authors">Andreas Harth, Tobias Käfer</span>
+
+16:40–17:20
+: Debate: Does decentralization need the Semantic Web?
 
 ## Late-night session
 19:00–late
