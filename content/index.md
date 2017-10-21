@@ -4,12 +4,24 @@ order: 0
 ---
 # A workshop that focuses on _clients_
 
-## Review our authors' contributions!
-We have received [14 contributions](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2017/DeSemWeb)
-in response to our [call](/contributions/).
+## See you at ISWC2017!
+Check out the [DeSemWeb2017 program](/program/)
+and join us for the discussion!
 
-**We warmly welcome you to write an open review
-to any of these contributions.**
+The workshop takes place on Sunday 22 October 2017 at 9:00
+in TC1.02 (first floor) at the Teaching Center
+of the Vienna University of Economics and Business.
+
+## Contributions
+We have received [14 contributions](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2017/DeSemWeb)
+in response to our [call](/contributions/),
+13 of which will be [presented](/program/) at the workshop.
+
+[The workshop proceedings](http://ceur-ws.org/Vol-1934/)
+link to all of this edition's contributions.
+
+
+You are still welcome to write a post-publication review to any of them.
 <br>
 Just go to [OpenReview](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2017/DeSemWeb),
 log in,
