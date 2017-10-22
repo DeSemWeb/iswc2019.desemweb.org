@@ -68,7 +68,3 @@ order: 50
 
 17:00–17:20
 : Discussion: Does decentralization need the Semantic Web?
-
-## Late-night session
-19:00–late
-: dinner and drinks (to be announced)
