@@ -48,23 +48,19 @@ order: 50
 : [LinkChains: Exploring the Space of Decentralised Trustworthy Linked Data](http://blockchain.kmi.open.ac.uk/desemweb2017/desemweb2017.html)
 <span class="authors">Allan Third and John Domingue</span>
 
-15:00
+## Closing session
+16:00
 : [Attaching Semantic Metadata to Cryptocurrency Transactions](http://ceur-ws.org/Vol-1934/contribution-05.pdf)
 <span class="authors">Luis-Daniel Ibáñez, Huw Fryer, Elena Simperl</span>
 
-
-## Closing session
-16:00
+16:20
 : [Storage Balancing in P2P Based Distributed RDF Data Stores](http://ceur-ws.org/Vol-1934/contribution-04.pdf)
 <span class="authors">Maximiliano Osorio, Carlos Buil-Aranda</span>
 
-16:20
+16:40
 : [Agent Server: Semantic Agent for Linked Data](https://agentsemantic.herokuapp.com/index.html)
 <span class="authors">Teofilo Chambilla, Claudio Gutierrez</span>
 
-16:40
+17:00
 : [Specifying and Executing User Agent Behaviour with Condition-Action Rules](http://ceur-ws.org/Vol-1934/contribution-09.pdf)
 <span class="authors">Andreas Harth, Tobias Käfer</span>
-
-17:00
-: Discussion: Does decentralization need the Semantic Web?
