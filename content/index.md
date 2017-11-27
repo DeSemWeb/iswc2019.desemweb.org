@@ -4,14 +4,6 @@ order: 0
 ---
 # A workshop that focuses on _clients_
 
-## See you at ISWC2017!
-Check out the [DeSemWeb2017 program](/program/)
-and join us for the discussion!
-
-The workshop takes place on Sunday 22 October 2017 at 9:00
-in TC1.02 (first floor) at the Teaching Center
-of the Vienna University of Economics and Business.
-
 ## Contributions
 We have received [14 contributions](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2017/DeSemWeb)
 in response to our [call](/contributions/),
