@@ -4,6 +4,9 @@ order: 0
 ---
 # A workshop that focuses on _clients_
 
+If you are looking for Semantic Web Technologies for the Internet of Things,
+visit the [SWIT2017 website](https://swit2017.github.io/).
+
 ## Contributions
 We have received [14 contributions](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2017/DeSemWeb)
 in response to our [call](/contributions/),
