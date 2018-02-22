@@ -4,24 +4,6 @@ order: 0
 ---
 # A workshop that focuses on _clients_
 
-If you are looking for Semantic Web Technologies for the Internet of Things,
-visit the [SWIT2017 website](https://swit2017.github.io/).
-
-## Contributions
-We have received [14 contributions](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2017/DeSemWeb)
-in response to our [call](/contributions/),
-13 of which will be [presented](/program/) at the workshop.
-
-[The workshop proceedings](http://ceur-ws.org/Vol-1934/)
-link to all of this edition's contributions.
-
-
-You are still welcome to write a post-publication review to any of them.
-<br>
-Just go to [OpenReview](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2017/DeSemWeb),
-log in,
-and pick the contribution you want to review.
-
 ## Purpose and scope
 Unfortunately,
 the Semantic Web is increasingly becoming a centralized story:
@@ -30,7 +12,7 @@ to perform intense reasoning, data mining, query execution, etc.
 Therefore, we urgently need research and engineering
 to _put the “Web” back in the “Semantic Web”_,
 aiming for **intelligent clients** instead of intelligent servers.
-The DeSemWeb2017 workshop purposely takes a radical perspective
+The DeSemWeb2018 workshop purposely takes a radical perspective
 by focusing solely on **decentralized and client-side applications**,
 to counterbalance the centralized discourse of other tracks.
 While we recognize the value in all subfields of the Semantic Web,
@@ -62,7 +44,7 @@ to build future Semantic Web and Linked Data applications.
 Share your [research](/contributions/#research-articles),
 [clients](/contributions/#client-challenge),
 and [vision](/contributions/#vision-statements)
-at the DeSemWeb2017 workshop.
+at the DeSemWeb2018 workshop.
 
-Come and join us in Vienna in October at [ISWC2017](https://iswc2017.semanticweb.org/)
+Come and join us in Monterey in October at [ISWC2018](http://iswc2018.semanticweb.org/)
 to discuss about the Web.

@@ -273,8 +273,15 @@ img.profile {
   background: $color-title;
   transform: rotate(-5deg);
 }
+.affiliation {
+  display: inline;
+  font-weight: bold;
+}
 .email {
-  margin-left: 1ex;
+  display: inline;
+  margin-left: 1em;
+  &:before { content: "("; }
+  &:after  { content: ")"; }
 }
 
 body.contributions {

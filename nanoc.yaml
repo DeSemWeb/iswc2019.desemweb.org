@@ -27,7 +27,7 @@ checks:
     exclude: []
     exclude_files: []
 
-site_name: DeSemWeb2017
+site_name: DeSemWeb2018
 venue:
-  name: ISWC2017
-  site: https://iswc2017.semanticweb.org/
+  name: ISWC2018
+  site: http://iswc2018.semanticweb.org/

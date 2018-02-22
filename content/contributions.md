@@ -4,12 +4,8 @@ order: 10
 ---
 # Call for Contributions
 
-## Review our authors' contributions!
-The call for contributions for 2017 is closed.
-We have received [14 contributions](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2017/DeSemWeb).
-
 ## Workshop scope
-The ISWC2017 workshop on Decentralizing the Semantic Web
+The ISWC2018 workshop on Decentralizing the Semantic Web
 welcomes novel contributions on intelligent clients,
 decentralized applications, and enabling technologies.
 Consult the [detailed topic list](/topics/) for inspiration.
@@ -18,10 +14,8 @@ You can share three kinds of contributions:
 [research articles](#research-articles),
 [client challenge demos](#client-challenge),
 and [vision statements](#vision-statements).
-<del>
-Share your work with us _before **28 July 2017**_
-through the [OpenReview](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2017/DeSemWeb) platform.
-</del>
+Share your work with us _before **15 May 2018**_
+through the [OpenReview](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2018/DeSemWeb) platform.
 
 ### Research articles
 {:#research-articles}
@@ -73,7 +67,7 @@ Given the scope of the workshop,
 we encourage the usage of native Web technologies
 and especially welcome HTML contributions with semantic annotations.
 Authors looking for practical advice might find the
-[HTML guide](http://iswc2017.semanticweb.org/calls/html-submission-guide/) helpful.
+[HTML guide](http://iswc2018.semanticweb.org/calls/html-submission-guide/) helpful.
 
 The DeSemWeb workshop series endorses the
 [Linked Research](https://linkedresearch.org/) principles.
@@ -83,7 +77,7 @@ and try to apply relevant ones to your contribution.
 
 ### Review process
 Please share your DeSemWeb contribution before the deadline
-through the [OpenReview](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2017/DeSemWeb) peer review platform.
+through the [OpenReview](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2018/DeSemWeb) peer review platform.
 
 You can—and are encouraged to—publish your contribution on the Web
 while it is under review.
@@ -95,16 +89,13 @@ and need to be presented by one of the authors at the workshop.
 
 ## Dates and deadlines
 Contributions due
-: <del>28 July 2017</del>
+: 15 May 2018
 
 Acceptance notification
-: 24 August 2017
-
-Proceedings publication
-: 21 September 2017
+: 27 June 2018
 
 Workshop
-: 22 October 2017
+: 8 October 2018
 
 
 ## Program committee
