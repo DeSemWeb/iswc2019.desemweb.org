@@ -104,6 +104,7 @@ Workshop
 
 
 ## Program committee
+- Pieter Colpaert, Ghent University – imec
 - John Domingue, The Open University
 - Claudio Gutierrez, University of Chile
 - Olaf Hartig, Linköping University
