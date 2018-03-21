@@ -8,11 +8,13 @@ order: 10
 The ISWC2018 workshop on Decentralizing the Semantic Web
 welcomes novel contributions on intelligent clients,
 decentralized applications, and enabling technologies.
-Consult the [detailed topic list](/topics/) for inspiration.
+Consult the [detailed topic list](/topics/)
+or [last year’s contributions](http://iswc2017.desemweb.org/)
+for inspiration.
 
 You can share three kinds of contributions:
 [research articles](#research-articles),
-[client challenge demos](#client-challenge),
+[decentralized applications](#decentralized-applications),
 and [vision statements](#vision-statements).
 Share your work with us _before **15 May 2018**_
 through the [OpenReview](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2018/DeSemWeb) platform.
@@ -33,17 +35,19 @@ Research articles bring _scientifically motivated insights_ and should:
   through a prototype, use case, or experiments
 
 We recommend to target 6,000–8,000 words (12–16 pages).
+[Send your article.](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2018/DeSemWeb)
 
-### Intelligent client challenge
-{:#client-challenge}
-We challenge authors to _build an interactive demonstration_ of an intelligent Web client
-that runs mostly or exclusively in a mobile or desktop browser.
-Such a client could, for instance,
-find information on the Web or execute tasks.
-Bonus points for natural language interactions
-through a _chatbot_ or _speech-to-text engine_.
+### Decentralized applications
+{:#decentralized-applications}
+Create an _application using decentralized technologies_,
+and describe how it was built,
+emphasizing the importance of decentralization
+and the necessity of Semantic Web or Linked Data.
+We especially welcome applications
+built on top of the [Solid](https://solid.mit.edu/) platform
+for decentralized Linked Data applications.
 
-Please share a link to your demonstration or video,
+[Share a link to your demonstration or video](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2018/DeSemWeb),
 accompanied by a description of around 1,000–4,000 words (2–8 pages).
 
 ### Vision statements
@@ -56,6 +60,7 @@ does decentralization need the Semantic Web?
 Contributions on any of the [topics](/topics/) are welcome.
 
 We recommend to target 1,000–4,000 words (2–8 pages).
+[Send your vision statement.](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2018/DeSemWeb)
 
 
 ## Author guidelines
@@ -99,13 +104,8 @@ Workshop
 
 
 ## Program committee
-- Sarven Capadisli, University of Bonn
-- Ben De Meester, Ghent University – imec
 - John Domingue, The Open University
-- Matthew English, University of Bonn
-- Nicola Greco, Massachusetts Institute of Technology
 - Claudio Gutierrez, University of Chile
-- Amy Guy, University of Edinburgh
 - Olaf Hartig, Linköping University
 - Katja Hose, Aalborg University
 - Sabrina Kirrane, Vienna University of Economics and Business
@@ -113,13 +113,12 @@ Workshop
 - Albert Merono, VU Amsterdam
 - Pascal Molli, University of Nantes
 - Gabriela Montoya, Aalborg University
-- Johannes Pfeffer, ConsenSys
 - Hala Skaf-Molli, University of Nantes
 - Allan Third, The Open University
 - elf Pavlik
 - Jorge Perez, University of Chile
 - Juan Reutter, Pontifical Catholic University of Chile
-- Henry Story, University of Southampton
+- Ruben Taelman, Ghent University – imec
 - Dominik Tomaszuk, University of Bialystok
 - Herbert Van de Sompel, Los Alamos National Laboratory
 - Miel Vander Sande, Ghent University – imec
