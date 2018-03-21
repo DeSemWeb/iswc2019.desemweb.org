@@ -24,7 +24,7 @@ checks:
   internal_links:
     exclude: []
   external_links:
-    exclude: []
+    exclude: ['https://solid.mit.edu/']
     exclude_files: []
 
 site_name: DeSemWeb2018
