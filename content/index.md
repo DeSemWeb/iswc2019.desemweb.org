@@ -4,6 +4,10 @@ order: 0
 ---
 # A workshop that focuses on _clients_
 
+<div style="font-size: 1.5em" markdown="1">
+**Accepting new contributions until 1 June 2018. [Share yours now!](/contributions/)**
+</div>
+
 ## Purpose and scope
 Like the Web,
 the Semantic Web is often reduced to a centralized story:
