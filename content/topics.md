@@ -4,8 +4,6 @@ order: 20
 ---
 # DeSemWeb topics
 
-We welcome [contributions](/contributions/) on any of the following topics.
-
 ## Decentralized Semantic Web applications
 {:#applications}
 - identity, authentication, and authorization

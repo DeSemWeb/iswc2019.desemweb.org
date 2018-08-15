@@ -5,7 +5,7 @@ order: 0
 # A workshop that focuses on _clients_
 
 <div style="font-size: 1.5em" markdown="1">
-**Accepting new contributions until 1 June 2018. [Share yours now!](/contributions/)**
+**All 7 accepted contributions are available in the [workshop proceedings](/proceedings/).**
 </div>
 
 ## Purpose and scope
@@ -22,7 +22,8 @@ While we recognize the value in all subfields of the Semantic Web,
 we see an urgent need to _revalue the role of clients_,
 continuing [last year’s edition](http://iswc2017.desemweb.org/).
 
-[Contribute to this workshop](/contributions/) and help put different topics on the Semantic Web community’s research agenda,
+Contribute to this workshop
+and help put different topics on the Semantic Web community’s research agenda,
 which will lead to new inspiration and initiatives
 to build future Semantic Web and Linked Data applications.
 
@@ -31,7 +32,7 @@ to build future Semantic Web and Linked Data applications.
 > and increases the scale at which we need to apply them.
 
 ## Topics of the DeSemWeb workshop series
-[Share your work](/contributions/) on these topics and related subjects:
+This workshop features these topics and related subjects:
 
 - intelligent Web clients through semantic technologies
   – [read more](/topics/#clients)

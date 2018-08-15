@@ -3,6 +3,7 @@ title: Call for Contributions
 order: 10
 ---
 # Call for Contributions
+**The call for contributions is closed.**
 
 ## Workshop scope
 The ISWC2018 workshop on Decentralizing the Semantic Web
@@ -94,10 +95,10 @@ and need to be presented by one of the authors at the workshop.
 
 ## Dates and deadlines
 Contributions due
-: 1 June 2018
+: <del>1 June 2018</del>
 
 Acceptance notification
-: 27 June 2018
+: <del>27 June 2018</del>
 
 Workshop
 : 8 October 2018
