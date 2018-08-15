@@ -5,6 +5,7 @@ compile '/**/*.html' do
 end
 
 compile '/**/*.md' do
+  filter :erb
   filter :kramdown
   layout '/default.*'
   filter :better_relativize_paths, type: :html
