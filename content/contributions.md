@@ -1,5 +1,5 @@
 ---
-title: Call for Contributions
+title: Call
 order: 10
 ---
 # Call for Contributions
