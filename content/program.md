@@ -22,18 +22,18 @@ order: 50
 <span class="authors">Henry Joseph Story</span>
 
 
-## Querying and applications
+## Services, data, and queries
 11:00
+: _Invited industry talk:_ Introduction to Open Services for Lifecycle Collaboration (OSLC)
+<span class="authors">Axel Reichwein</span>
+
+11:20
 : [SPARQL Query Execution in Networks of Web Browsers](http://ceur-ws.org/Vol-2165/paper3.pdf)
 <span class="authors">Arnaud Grall, Hala Skaf-Molli, Pascal Molli</span>
 
-11:20
+11:40
 : [Towards Efficient Query Processing over Heterogeneous RDF Interfaces](http://ceur-ws.org/Vol-2165/paper4.pdf)
 <span class="authors">Gabriela Montoya, Christian Aebeloe, Katja Hose</span>
-
-11:40
-: [DRPD: Architecture for Intelligent Interaction with RDF Prefixes](http://ceur-ws.org/Vol-2165/paper5.pdf)
-<span class="authors">Dominik Tomaszuk, Karol Litman</span>
 
 12:00
 : [A Data Market with Decentralized Repositories](http://ceur-ws.org/Vol-2165/paper6.pdf)
