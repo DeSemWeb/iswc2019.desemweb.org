@@ -6,7 +6,7 @@ order: 10
 **The call for contributions is closed.**
 
 ## Workshop scope
-The ISWC2018 workshop on Decentralizing the Semantic Web
+The ISWC2019 workshop on Decentralizing the Semantic Web
 welcomes novel contributions on intelligent clients,
 decentralized applications, and enabling technologies.
 Consult the [detailed topic list](/topics/)
@@ -17,8 +17,8 @@ You can share three kinds of contributions:
 [research articles](#research-articles),
 [decentralized applications](#decentralized-applications),
 and [vision statements](#vision-statements).
-Share your work with us _before **1 June 2018**_
-through the [OpenReview](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2018/DeSemWeb) platform.
+Share your work with us _before **1 June 2019**_
+through the [OpenReview](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2019/DeSemWeb) platform.
 
 ### Research articles
 {:#research-articles}
@@ -36,7 +36,7 @@ Research articles bring _scientifically motivated insights_ and should:
   through a prototype, use case, or experiments
 
 We recommend to target 6,000–8,000 words (12–16 pages).
-[Send your article.](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2018/DeSemWeb)
+[Send your article.](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2019/DeSemWeb)
 
 ### Decentralized applications
 {:#decentralized-applications}
@@ -48,7 +48,7 @@ We especially welcome applications
 built on top of the [Solid](https://solid.mit.edu/) platform
 for decentralized Linked Data applications.
 
-[Share a link to your demonstration or video](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2018/DeSemWeb),
+[Share a link to your demonstration or video](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2019/DeSemWeb),
 accompanied by a description of around 1,000–4,000 words (2–8 pages).
 
 ### Vision statements
@@ -61,7 +61,7 @@ does decentralization need the Semantic Web?
 Contributions on any of the [topics](/topics/) are welcome.
 
 We recommend to target 1,000–4,000 words (2–8 pages).
-[Send your vision statement.](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2018/DeSemWeb)
+[Send your vision statement.](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2019/DeSemWeb)
 
 
 ## Author guidelines
@@ -73,7 +73,7 @@ Given the scope of the workshop,
 we encourage the usage of native Web technologies
 and especially welcome HTML contributions with semantic annotations.
 Authors looking for practical advice might find the
-[HTML guide](http://iswc2018.semanticweb.org/calls/html-submission-guide/) helpful.
+[HTML guide](http://iswc2019.semanticweb.org/calls/html-submission-guide/) helpful.
 
 The DeSemWeb workshop series endorses the
 [Linked Research](https://linkedresearch.org/) principles.
@@ -83,7 +83,7 @@ and try to apply relevant ones to your contribution.
 
 ### Review process
 Please share your DeSemWeb contribution before the deadline
-through the [OpenReview](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2018/DeSemWeb) peer review platform.
+through the [OpenReview](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2019/DeSemWeb) peer review platform.
 
 You can—and are encouraged to—publish your contribution on the Web
 while it is under review.
@@ -95,14 +95,13 @@ and need to be presented by one of the authors at the workshop.
 
 ## Dates and deadlines
 Contributions due
-: <del>1 June 2018</del>
+: 28 June 2019
 
 Acceptance notification
-: <del>27 June 2018</del>
+: 24 July 2019
 
 Workshop
-: 8 October 2018
-
+: 26 or 27 October 2019
 
 ## Program committee
 - Pieter Colpaert, Ghent University – imec

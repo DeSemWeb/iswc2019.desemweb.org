@@ -7,7 +7,7 @@ order: 20
 ## Decentralized Semantic Web applications
 {:#applications}
 - identity, authentication, and authorization
-- improving the onboarding experience for new users
+- improving the on-boarding experience for new users
 - client-side Linked Data access and manipulation
 - applications of Linked Data Notifications
 - provenance, trust, and claim verification

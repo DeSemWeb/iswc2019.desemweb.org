@@ -27,7 +27,7 @@ checks:
     exclude: ['https://solid.mit.edu/']
     exclude_files: []
 
-site_name: DeSemWeb2018
+site_name: DeSemWeb2019
 venue:
-  name: ISWC2018
-  site: http://iswc2018.semanticweb.org/
+  name: ISWC2019
+  site: https://iswc2019.semanticweb.org/

@@ -5,6 +5,6 @@ bundler_args: --without development
 cache: bundler
 script:
   - bundle exec nanoc compile
-  - bundle exec nanoc check html external_links internal_links mixed_content stale
+  - bundle exec nanoc check html internal_links mixed_content stale
 after_success:
   - ./.travis_build_pages

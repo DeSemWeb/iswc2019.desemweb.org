@@ -8,22 +8,21 @@ order: 100
 {:#ruben}
 Ghent University – imec, Belgium
 {:.affiliation}
-[email](mailto:ruben.verborgh@ugent.be?subject=DeSemWeb2018)
+[email](mailto:ruben.verborgh@ugent.be?subject=DeSemWeb2019)
 {:.email}
 
 ![[Ruben Verborgh]](https://ruben.verborgh.org/images/ruben.jpg){:.profile}
 
 Ruben Verborgh is a professor of Semantic Web technology at Ghent University – imec
 and a research affiliate at the Decentralized Information Group at MIT.
-He explores the connection between Semantic Web technologies
-and the Web’s architectural properties,
-with the ultimate goal of building more intelligent clients.
+He aims to build a more intelligent generation of clients for a decentralized Web
+at the intersection of Linked Data and hypermedia-driven Web APIs.
 
 ## [Tobias Kuhn](http://www.tkuhn.org/)
 {:#tobias}
 VU University Amsterdam, The Netherlands
 {:.affiliation}
-[email](mailto:kuhntobias@gmail.com?subject=DeSemWeb2018)
+[email](mailto:kuhntobias@gmail.com?subject=DeSemWeb2019)
 {:.email}
 
 ![[Tobias Kuhn]](/images/tobias.jpg){:.profile}
@@ -39,7 +38,7 @@ and he investigates how software tools can help us to better organize human know
 {:#tim}
 Massachusetts Institute of Technology, USA
 {:.affiliation}
-[email](mailto:timbl@w3.org?subject=DeSemWeb2018)
+[email](mailto:timbl@w3.org?subject=DeSemWeb2019)
 {:.email}
 
 ![[Tim Berners-Lee]](https://upload.wikimedia.org/wikipedia/commons/4/4e/Sir_Tim_Berners-Lee_%28cropped%29.jpg){:.profile}
