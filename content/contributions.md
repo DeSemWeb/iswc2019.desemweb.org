@@ -3,14 +3,13 @@ title: Call
 order: 10
 ---
 # Call for Contributions
-**The call for contributions is closed.**
 
 ## Workshop scope
 The ISWC2019 workshop on Decentralizing the Semantic Web
 welcomes novel contributions on intelligent clients,
 decentralized applications, and enabling technologies.
 Consult the [detailed topic list](/topics/)
-or [last year’s contributions](http://iswc2017.desemweb.org/)
+or [last year’s contributions](http://iswc2018.desemweb.org/)
 for inspiration.
 
 You can share three kinds of contributions:
