@@ -68,12 +68,12 @@ header {
   p.full {
     font-size: 1.5em;
     letter-spacing: .1ex;
-    margin: -2em 0 0 1.7em;
+    margin: -2.2em 0 0 1.7em;
   }
-  p.date {
+  p.details {
     position: absolute;
     color: $color-title;
-    margin: -1.3em 0 0 30em;
+    margin: -1.5em 0 0 22.5em;
   }
   h1, p {
     a {
@@ -86,7 +86,7 @@ header {
 
   nav {
     ul {
-      margin: 1em 0 0 2.5em;
+      margin: 1.3em 0 0 2.5em;
     }
     li {
       font-family: $font-title;
@@ -314,7 +314,7 @@ body.program {
 
 @media screen and (max-width: 800px) {
   header {
-    padding: 2em 1em .5em;
+    padding: 2em 1em 1em;
 
     h1 {
       font-size: 3em;
@@ -325,13 +325,13 @@ body.program {
       letter-spacing: .1ex;
       margin: -2em 0 0 1.5em;
     }
-    p.date {
+    p.details {
       display: none;
     }
     nav {
       font-size: .85em;
       ul {
-        margin: 1em 0 0 2em;
+        margin: 1em 0 -.6em 2em;
       }
       li {
         margin-right: 1.4em;
