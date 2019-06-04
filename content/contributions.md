@@ -16,7 +16,7 @@ You can share three kinds of contributions:
 [research articles](#research-articles),
 [decentralized applications](#decentralized-applications),
 and [vision statements](#vision-statements).
-Share your work with us _before **1 June 2019**_
+Share your work with us _before **24 June 2019**_
 through the [OpenReview](https://openreview.net/group?id=swsa.semanticweb.org/ISWC/2019/Workshop/DeSemWeb) platform.
 
 ### Research articles
@@ -94,7 +94,7 @@ and need to be presented by one of the authors at the workshop.
 
 ## Dates and deadlines
 Contributions due
-: 28 June 2019
+: 24 June 2019
 
 Acceptance notification
 : 24 July 2019
